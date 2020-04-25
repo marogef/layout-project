@@ -1,0 +1,29 @@
+html,
+body {
+    width: 100%;
+    overflow-x: hidden;
+       background: url(hardwood.jpg) no-repeat 50%;
+    background-size: cover;
+}
+
+body {
+    background-attachment: inherit;
+    color:forestgreen;
+      font-weight: bold;
+
+}
+h1{
+    color: crimson;
+    
+}
+.main{
+  line-height: 200px;
+  height: 200px;
+  text-align: center;
+}
+#myCanvas{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
